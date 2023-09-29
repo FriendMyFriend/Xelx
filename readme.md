@@ -7,7 +7,7 @@ Xelx is a static site generator using data and it will generate your sites homep
 blogs, posts, and more, it requires little to no code at all! have fun building a site with a lot of code!
 
 ### Install
-Use this link: [friendmyfriend website] or use this link: [github releases]<br/>
+Use this [friendmyfriend website] or use this [github releases]<br/>
 Or use the following bash/git script:
 ```shell
 cd downloads
